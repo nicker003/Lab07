@@ -1,0 +1,9 @@
+D:\Study\KHTN\HK9\VB\Lab07\1171012_Lab07\bin\Debug\1171012_Lab07.exe.config
+D:\Study\KHTN\HK9\VB\Lab07\1171012_Lab07\bin\Debug\1171012_Lab07.exe
+D:\Study\KHTN\HK9\VB\Lab07\1171012_Lab07\bin\Debug\1171012_Lab07.pdb
+D:\Study\KHTN\HK9\VB\Lab07\1171012_Lab07\bin\Debug\1171012_Lab07.xml
+D:\Study\KHTN\HK9\VB\Lab07\1171012_Lab07\obj\Debug\_1171012_Lab07.Resources.resources
+D:\Study\KHTN\HK9\VB\Lab07\1171012_Lab07\obj\Debug\1171012_Lab07.vbproj.GenerateResource.Cache
+D:\Study\KHTN\HK9\VB\Lab07\1171012_Lab07\obj\Debug\1171012_Lab07.exe
+D:\Study\KHTN\HK9\VB\Lab07\1171012_Lab07\obj\Debug\1171012_Lab07.xml
+D:\Study\KHTN\HK9\VB\Lab07\1171012_Lab07\obj\Debug\1171012_Lab07.pdb
