@@ -2,7 +2,7 @@
 Imports System.Data.SqlClient
 
 Public Class DBControl
-    Private conn As New SqlConnection("Server=.\SQLExpress;Database=BookMgr;Trusted_Connection=True;")
+    Private conn As New SqlConnection("Server=.\SQLExpress;Database=Lab07;Trusted_Connection=True;")
     Private sqlcmd As New SqlCommand
 
     Public Function Connection() As Boolean
